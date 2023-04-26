@@ -8,7 +8,7 @@ We’re on a mission to power all road transport with 100% renewable energy!
 
 [Senior Software Engineer - Ruby, Rails, React, Node, Typescript, AWS stack](https://www.chargefox.com/careers/senior-software-engineer/)
 
-[Senior Software Engineer - Ruby, Rails, React, Node, Typescript, AWS stack - Woman only](https://www.chargefox.com/careers/senior-software-engineer-woman-only/)
+[Senior Software Engineer - Ruby, Rails, React, Node, Typescript, AWS stack - Women in STEM](https://www.chargefox.com/careers/senior-software-engineer-women-in-stem/)
 
 ## How do I apply?
 
